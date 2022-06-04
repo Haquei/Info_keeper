@@ -1,5 +1,7 @@
 # Project Title: Info keeper
 
+This is a basic app where we can store, edit and delete student informations from database. This app is designed a way that can be further develop for different purpose. Such as todo list, balance store, reminder etc. Whenever you need to store some data for a quick check you can use this source code for further development. 
+
 # Developed Using:
 * Programming Language: java
 * Operating system: Android
@@ -16,8 +18,8 @@ United International University, Dhaka.
 * SQLlite
 * Storing informations
 * Edit informations
-* Delete list
 * Delete informations
+* Delete list
 
 #Screenshoots:
 
@@ -26,5 +28,6 @@ United International University, Dhaka.
 <img src="https://github.com/Haquei/Info_keeper/blob/master/screenshots/2.jpeg" style=" width:265px ; height:500px "  >
 <img src="https://github.com/Haquei/Info_keeper/blob/master/screenshots/3.jpeg" style=" width:265px ; height:500px "  >
 <img src="https://github.com/Haquei/Info_keeper/blob/master/screenshots/4.jpeg" style=" width:265px ; height:500px "  >
+<img src="https://github.com/Haquei/Info_keeper/blob/master/screenshots/6.jpeg" style=" width:265px ; height:500px "  >
 <img src="https://github.com/Haquei/Info_keeper/blob/master/screenshots/5.jpeg" style=" width:265px ; height:500px "  >
   </p>
